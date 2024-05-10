@@ -1,0 +1,2 @@
+el precio total en USD es: 1712,32
+
